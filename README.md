@@ -149,7 +149,3 @@ Ollama is not reachable from your current environment.
 - Unit tests for retriever and workflow steps
 - Better site-specific extraction for major job boards
 
-## License
-
-Choose a license before publishing (recommended: MIT).
-
